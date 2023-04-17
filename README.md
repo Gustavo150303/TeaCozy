@@ -1,2 +1,2 @@
 # TeaCozy
-Este repositório contém o código-fonte de um site desenvolvido em sala de aula durante o curso de Desenvolvimento de Sistemas do Senai. O objetivo deste projeto foi permitir que os alunos aprendessem conceitos de desenvolvimento web, incluindo HTML, CSS.
+Este é um site desenvolvido em sala de aula como parte do curso de Desenvolvimento de Sistemas oferecido pelo Senai. O objetivo deste site é fornecer aos alunos um ambiente de aprendizagem para praticar as habilidades e conceitos aprendidos no curso.
