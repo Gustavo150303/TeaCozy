@@ -1,0 +1,50 @@
+.locations{
+    width: 1200px;
+    height: 500px;
+    background-image: url("/IMAGES/img-locations-background.jpg");
+    margin:auto;
+    margin-top: 55px;
+}
+
+.locations__legendas{
+    text-align: center;
+    padding-top: 95px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    color: seashell;
+}
+
+#locations__titulo{
+    opacity: 1.0;
+}
+
+.locations__quadrados{
+    display: flex;
+    justify-content: center;    
+    gap: 40px;
+    padding-top: 15px;
+}
+
+.downtown{
+    background-color: black;
+    width: 300px;
+    line-height: 65px;
+    text-align: center;
+}
+
+.east_Bayside{
+    background-color: black;
+    width: 300px;
+    line-height: 65px;
+    text-align: center;
+}
+
+.oakdale{
+    background-color: black;
+    width: 300px;
+    line-height: 65px;
+    text-align: center;
+}
+
+
+

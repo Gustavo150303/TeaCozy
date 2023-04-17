@@ -1,0 +1,20 @@
+.ourMission{
+    display: flex;
+    justify-content: center;
+    width: 1200px;
+    height: 700px;
+    background-image: url("/IMAGES/img-mission-background.jpg");
+    margin:auto;
+    align-items: center;
+}
+
+.ourMission__barraPreta{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: seashell;
+    font-size: 22px;
+    background-color: black;
+    width: 1200px;
+    line-height: 50px;
+}
+

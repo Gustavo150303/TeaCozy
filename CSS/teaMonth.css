@@ -1,0 +1,57 @@
+
+.teaMonth{
+    line-height: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    color: seashell;
+    text-align: center;
+    background-color: black;
+    width: 1000px;
+    margin: auto;
+    padding-top: 60px;
+}
+
+.imagensLegendas{
+    width: auto;
+    height: auto;
+    align-items: center;
+    padding-top: 10px;  
+}
+
+.imagens1{
+    display: flex;
+    gap: 35px;
+    justify-content: center;
+    height: 200px;
+}
+
+.imagens2{
+    display: flex;
+    gap: 35px;
+    justify-content: center;
+    height: 200px;
+    padding-top: 35px;
+}
+
+.legendas1{
+    color: seashell;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    padding-top: 10px;
+    display: flex;
+    gap: 160px;
+    justify-content: center;
+    opacity: 0.9;
+}
+
+.legendas2{
+    color: seashell;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    padding-top: 10px;
+    display: flex;
+    gap: 165px;
+    opacity: 0.9;
+    justify-content: center;
+}
+
